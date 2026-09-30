@@ -1,0 +1,152 @@
+# BRONDOSSIER G1-1 — Instandhouding-opdracht IenW → Rijkswaterstaat
+
+**Track-ID:** G1-1 · **Titel:** Instandhouding-opdracht RWS · **Datum dossier:** 29 september 2026
+**Scope:** de opdracht waarmee IenW Rijkswaterstaat (RWS) op instandhouding stuurt, 2020–2026, met nadruk op wat in 2024–2026 van kracht is: meerjarenafspraak, basiskwaliteitsniveau (BKN), SAMP/assetmanagement, agentschapssturing, Meerjarenplan Instandhouding 2025–2030 en Staat van de Infrastructuur 2024.
+**Expliciet buiten scope:** MIRT-gates en 75%-regel (G1-2); Deltabeslissingen/HWBP-herijking (G1-3); waterschappen (behalve waar het Meerjarenplan ze noemt); crisis, Omgevingswet-instrumenten, pensioen, CBS; RWS-geschiedenis vóór 2006.
+
+## TL;DR
+
+- De tekst van de meerjarenafspraak instandhouding IenW–RWS (looptijd 1 januari 2024 t/m 2030) is niet openbaar gevonden `[NF]`. De meest complete openbare weergave is Kamerstuk 29 385, nr. 139 (17 juni 2024) plus §1.2 van het Meerjarenplan Instandhouding 2025–2030. Die stukken zeggen dat "de gewenste prestaties en bijbehorende budgetten" voor exploitatie, onderhoud en vernieuwing "gebundeld [zijn] in één afspraak", met het BKN als basis. Het onderliggende stuk heet volgens *Instandhouding voorop!* de "Startbrief Meerjarenafspraak Instandhouding voor de periode t/m 2030, november 2023" `[A-verwijzing, tekst NF]`.
+- Geen enkele gevonden bron zegt expliciet dat de afspraak géén begrotingswet is, en geen bron noemt een midterm-herijking 2026 `[NF]`. Wel stellen de stukken dat de afspraak "statisch" is (2024–2030), dat het programma 8 jaar voortrollend is (2025–2033), en dat verdere productiegroei en ongedekt werk "aan een nieuw kabinet" zijn. De afspraak bindt dus prestaties en programmering binnen de begrotingsstand, niet de begrotingswetgever.
+- Het ISO-certificeerdoel eind 2025 is in Kamerstuk 29 385, nr. 142 (gedateerd 28 april 2025) "niet meer haalbaar" verklaard. De herijkte planning is in de brief van 8 december 2025 (36 800 A, nr. 9) aangekondigd maar niet in die brief zelf opgenomen; een brief mét nieuw jaartal is niet gevonden `[NF]`. Het SAMP (derde versie 2025) staat op een intern portaal (samp.rws.nl) en is niet openbaar `[NF]`. Een openbare mandaatkaart in de termen van de Regeling agentschappen 2024 is evenmin gevonden `[NF]`.
+
+## 1. Kop — zie hierboven
+
+## 2. Gezochte objecten
+
+| # | Object | Gevonden | URL of NIET GEVONDEN | Korte inhoud (≤3 zinnen) | Tag |
+|---|---|---|---|---|---|
+| 1a | Tekst meerjarenafspraak IenW–RWS 2024–2030 | nee | NIET GEVONDEN | Geen openbare versie van de afspraak zelf aangetroffen op officielebekendmakingen, rijksoverheid.nl of tweedekamer.nl. | `[NF]` |
+| 1b | "Startbrief Meerjarenafspraak Instandhouding voor de periode t/m 2030, november 2023" | alleen als verwijzing | NIET GEVONDEN (tekst); verwijzing in voetnoot 24 van *Instandhouding voorop!*: https://www.tweedekamer.nl/downloads/document?id=2024D25452 | *Instandhouding voorop!* noemt dit stuk als bron voor de per 1 januari 2024 aangepaste sturing. Volgens het rapport kan RWS door de eind 2023 aangepaste sturingsafspraken meerjarig plannen (tot 2030) en E&O en Vernieuwing beter op elkaar afstemmen. | `[A]` (verwijzing) / tekst `[NF]` |
+| 1c | Meest complete openbare weergave: Kamerbrief "Verhogen productievermogen instandhouding Rijkswaterstaat-netwerken" | ja | https://www.tweedekamer.nl/downloads/document?id=2024D25449 | Kamerstuk 29 385, nr. 139, 17 juni 2024, ondertekend door minister M.G.J. Harbers. Meldt: sinds 1 januari 2024 een meerjarenafspraak t/m 2030; prestaties en budgetten voor exploitatie, onderhoud en vernieuwing gebundeld in één afspraak; BKN als basis. IenW zet in op het stabiel houden van BKN en afspraak. | `[A]` |
+| 1d | Ondertekenaars / ingangs- en einddatum afspraak | deels | zie 1c en 5a | Ingang 1 januari 2024, doorlooptijd "tot en met 2030" `[A]`. Ondertekenaars van de afspraak zelf: niet gevonden. Het MJP noemt als partijen RWS en "de beleidskern van het ministerie van IenW". | `[A]` / ondertekenaars `[NF]` |
+| 1e | Bron zegt "géén begrotingswet" | nee | NIET GEVONDEN | Geen expliciete uitspraak gevonden. Wel: "Het is aan een nieuw kabinet om te besluiten over verdere productiegroei" (MJP), en er is ongedekt werk in voorbereiding (o.a. portfolio's, Schipholtunnel). | `[NF]` |
+| 1f | Wijzigbaarheid / tussentijdse herijking / midterm 2026 | deels | https://zoek.officielebekendmakingen.nl/blg-1206045.pdf | MJP: de afspraak is "statisch" en loopt 2024–2030; het Meerjarenprogramma is 8-jaars voortrollend (2025–2033) en wordt jaarlijks geactualiseerd. Midterm 2026: niet gevonden. | `[A]` / midterm `[NF]` |
+| 2a | Officiële definitie BKN | ja | https://zoek.officielebekendmakingen.nl/kst-29385-119.html ; https://www.tweedekamer.nl/downloads/document?id=2024D25449 | "Het BKN geeft aan waar een weg, vaarweg of waterwerk in de basis aan moet voldoen om gebruikers en belanghebbenden goed te kunnen blijven bedienen en vormt de basis van de instandhoudingsopgave" (29 385, nr. 139). Vastgesteld in de Kamerbrief Basiskwaliteitsniveau RWS-netwerken, 29 385, nr. 119 (17 maart 2023, Harbers). | `[A]` |
+| 2b | Openbare BKN-normenset / prestatietabel | nee | NIET GEVONDEN; dichtstbij: bijlage 1081483 "Toelichting werkzaamheden en maatregelen" bij 29 385, nr. 119 (vermeld op https://zoek.officielebekendmakingen.nl/kst-29385-119.html, niet geopend) | 29 385, nr. 119 geeft per netwerk (HWS, HVWN, HWN) een kwalitatieve uitwerking, geen normentabel. Volgens *Instandhouding voorop!* vertaalt RWS het BKN door naar kaders "zoals objectbeheerregimes". | `[NF]` (normenset) |
+| 2c | Relatie BKN ↔ meerjarenafspraak | ja | https://zoek.officielebekendmakingen.nl/kst-29385-142.pdf ; https://zoek.officielebekendmakingen.nl/blg-1206045.pdf | "Het basiskwaliteitsniveau vormt hiervoor de basis" (29 385, nr. 142). MJP: "Het fundament van deze afspraak is het basiskwaliteitsniveau (BKN)." | `[A]` |
+| 3a | SAMP RWS, actuele openbare versie | nee | NIET GEVONDEN; interne site samp.rws.nl volgens toegankelijkheidsverklaring: https://www.toegankelijkheidsverklaring.nl/register/23569 | 29 385, nr. 142: in 2025 wordt de derde versie van het SAMP ontwikkeld. Die bestaat uit (1) een managementsamenvatting "bedoeld als gezamenlijke beleidsverklaring voor de driehoek" en (2) een informatieportaal. Toegankelijkheidsregister: "De website samp.rws.nl is alleen beschikbaar op het netwerk van Rijkswaterstaat en het ministerie van Infrastructuur en Waterstaat" (verklaring getekend 21-05-2024). | `[NF]` / portaal-status `[C]` |
+| 3b | Ontwikkelplan Assetmanagement IenW 2020 | ja | https://zoek.officielebekendmakingen.nl/blg-964099.pdf | Versie 1.0, 16 december 2020, bijlage bij Kamerstuk 35 570 A, nr. 46. Beschrijft een meerjarig ontwikkeltraject van "naar verwachting 5 jaar" met ISO 55000 als richting. Rollen: Beleid (opdrachtgever), SG (eigenaar), RWS (opdrachtnemer). | `[A]` |
+| 3c | Voortgangsbrief/-rapportage 2022 | ja | https://zoek.officielebekendmakingen.nl/blg-1041423.pdf | Voortgang Ontwikkelplan, 8 juli 2022. Ambitie: "eind 2025 in lijn met de ISO 55000". De herijking van de prestatie- en sturingsafspraken in 2021 staat op "Niet gerealiseerd". | `[A]` |
+| 3d | Voortgangsrapportage 2023 | ja | https://www.tweedekamer.nl/downloads/document?id=2023D30092 | "Voortgang Ontwikkelplan Assetmanagement IenW", Ministerie van IenW, "Datum Juni 2023, Versie 1.0, Status Definitief". De Voortgangsrapportage 2024 bevestigt: "De laatste voortgangsrapportage richting de Tweede Kamer dateert uit juni 2023." | `[A]` |
+| 3e | Voortgangsbrief 2025 + Voortgangsrapportage 2024 | ja | https://zoek.officielebekendmakingen.nl/kst-29385-142.pdf ; https://www.rijksoverheid.nl/documenten/2025/05/27/voortgang-ontwikkelplan-assetmanagement-ienw-rws-netwerken ; https://zoek.officielebekendmakingen.nl/blg-1194645.pdf | 29 385, nr. 142, minister Madlener: "De ambitie om eind 2025 certificeerbaar te zijn is daarmee niet meer haalbaar." De planning wordt herijkt en "eind van het jaar, tegelijk met de rapportage Staat van de Infra" aangeboden. De rapportage 2024 noemt de eind-2025-ambitie "(te) ambitieus". | `[A]` |
+| 3f | Herijkte certificeringsplanning (vervanger eind 2025) | nee | NIET GEVONDEN | 36 800 A, nr. 9 (8 december 2025) kondigt aan: "Gelijktijdig wordt de Tweede Kamer geïnformeerd over de planning voor het certificeerbaar assetmanagement van Rijkswaterstaat." De brief zelf bevat geen jaartal; een aparte brief met de planning is niet gevonden. | `[NF]` |
+| 4a | Openbare mandaatkaart RWS in termen Regeling agentschappen 2024 | nee | NIET GEVONDEN | Geen openbaar stuk gevonden dat per persoon of functie de continuïteits-, beleids- en eindverantwoordelijke voor RWS 2025–2026 benoemt. | `[NF]` |
+| 4b | Regeling agentschappen 2024 (rolkader) | ja | https://wetten.overheid.nl/BWBR0050264/2025-01-01/0 ; https://zoek.officielebekendmakingen.nl/stcrt-2024-32572.html | Regeling van de Minister van Financiën van 20 september 2024, geldend vanaf 1 januari 2025. Art. 6: "één eindverantwoordelijke binnen het agentschap, één continuïteitsverantwoordelijke en tenminste één beleidsverantwoordelijke"; art. 7: werkafspraken over minimaal de komende drie kalenderjaren. Toelichting: "Voorheen: opdrachtnemer, opdrachtgever en eigenaar". | `[A]` |
+| 4c | Dichtstbijzijnde A-stuk dat de drie rollen voor RWS toepast | ja | https://www.rijksfinancien.nl/memorie-van-toelichting/2025/1SUPP/XII/onderdeel/4052747 ; https://www.tweedekamer.nl/kamerstukken/detail?id=2025Z16987&did=2025D39547 | Suppletoire begrotingen 2025 IenW, §5.1 Agentschap Rijkswaterstaat: de bekostiging houdt in dat "afspraken zijn gemaakt tussen de eindverantwoordelijke binnen een agentschap, de continuïteitsverantwoordelijke en tenminste één beleidsverantwoordelijke". Begroting 2026 §4.1: "Het Ministerie van IenW kent een scheiding tussen beleid, toezicht en uitvoering." Geen namen of functies per rol. | `[A]` |
+| 5a | Meerjarenplan Instandhouding RWS 2025–2030 (canonieke PDF) | ja | https://zoek.officielebekendmakingen.nl/blg-1206045.pdf | RWS-rapport, datum 24 juni 2025, status definitief, voorwoord DG Martin Wijnen. Bijlage bij Kamerstuk 29 385, nr. 143 (1 juli 2025, minister Tieman). Overzichtspagina: https://www.rijksoverheid.nl/documenten/kamerstukken/2025/07/01/meerjarenplan-instandhouding-rijkswaterstaat-netwerken-2025-2030 | `[A]` |
+| 5b | Staat van de Infrastructuur RWS 2024 (canonieke PDF) | ja | https://www.rijksoverheid.nl/documenten/2025/12/08/bijlage-2-staat-van-de-infrastructuur-rijkswaterstaat-2024 ; PDF via zoekresultaat: https://open.overheid.nl/documenten/3cd2face-412e-4abf-9ed5-a4fd6a35feef/file (niet volledig geopend: robots-blokkade) | Rapport "Staat van de Infrastructuur Rijkswaterstaat 2024", datum december 2025, peildatum 1 januari 2025. Aangeboden bij Kamerstuk 36 800 A, nr. 9 (8 december 2025, Tieman en Aartsen). | `[A]` (brief) / PDF-inhoud deels `[C]` |
+| 5c | Kamerbrief "werking Meerjarenplan Instandhouding" | ja (bestaan) | https://www.rijksoverheid.nl/documenten/2026/01/26/werking-meerjarenplan-instandhouding-rijkswaterstaat ; PDF (niet geopend): https://open.overheid.nl/documenten/5d5a3295-2644-48fd-9289-e3332e5cd1c1/file | Kamerstuk 29 385, nr. 146, 26 januari 2026, minister Tieman, na een toezegging aan Stoffer (SGP); er hoort een beslisnota bij. Volgens de samenvatting op rijksoverheid.nl bespreekt Tieman "onder meer de afgesproken productieverhoging door Rijkswaterstaat tot en met 2030 op het hoofdwegennet, hoofdvaarwegennet en het hoofdwatersysteem". | `[B]` / tekst `[NF]` |
+
+## 3. Mechaniek van de gevonden stukken (alleen wat de bron zegt)
+
+**3.1 Van tweejarige horizon naar één integrale achtjarige opdracht (2023).** 29 385, nr. 119 (17 maart 2023) stelt dat RWS "noodgedwongen" werkte "met een korte planningshorizon van twee jaar en een verdringingsreeks". De brief kondigt aan: "In de nieuwe aansturing zal er sprake zijn van één integrale achtjarige opdracht voor alle instandhoudingswerkzaamheden van RWS." Een "achtjarige voortrollende opdracht in combinatie met verdere optimalisatie van de agentschapssturing" moet efficiëntievoordelen opleveren. `[A]`
+
+**3.2 Meerjarenafspraak (2024–2030).** Volgens 29 385, nr. 139 en 29 385, nr. 142 is er sinds 1 januari 2024 één afspraak die de gewenste prestaties en bijbehorende budgetten voor exploitatie, onderhoud en vernieuwing bundelt. De basis is het BKN; de kern is "een voortrollende instandhoudingsprogrammering die tenminste acht jaar vooruitkijkt". Het MJP maakt het onderscheid expliciet: "enerzijds de meerjarenafspraak die statisch is en loopt van 2024-2030 en anderzijds een Meerjarenprogramma, die 8-jaars voortrollend is van 2025 – 2033". Het MJP is daarbij "onderdeel van de meerjarenafspraak". Het MJP-voorwoord spreekt van "een meerjarige opdracht tot en met 2030 en meer verantwoordelijkheid bij de uitvoeringsorganisatie". `[A]`
+
+**3.3 Begrotingsvertaling.** Begroting IenW 2026, artikel 14 Wegen en Verkeersveiligheid: "Voor de instandhoudingswerkzaamheden krijgt Rijkswaterstaat één integrale 8-jarige opdracht, waarbij afspraken zijn gemaakt over de uit te voeren werkzaamheden en de prestaties met daarbij horende (streef)waarden." `[A]` In de antwoorden op Kamervragen van Stoffer (Aanhangsel 2025–2026, nr. 682, 16 december 2025) staat dat RWS "16 jaar vooruit" kijkt, "waarvan de eerste 4 jaar maakbaar worden geprogrammeerd en de 4 jaar daarna vooruit worden gepland". De begroting wordt voor prijsstijgingen gecorrigeerd, afhankelijk van de IBOI-toekenning door Financiën. `[A]`
+
+**3.4 Wat de afspraak níet bindt (volgens de bronnen).** Het MJP: "Het is aan een nieuw kabinet om te besluiten over verdere productiegroei"; het plan zet in op "begrotingsbesluitvorming door een nieuw kabinet". De antwoorden op Kamervragen van Stoffer (2025D52389): "voor een deel van het werk in voorbereiding, waaronder portfolio's, geen financiële middelen beschikbaar zijn. Besluitvorming hierover is aan een nieuw kabinet." Kamerstuk 32 861, nr. 89 zegt het zo: "Om achterstanden te beperken moet de productie op instandhouding verder groeien dan waar de huidige budgetten en meerjarenafspraak met Rijkswaterstaat in voorzien." In het begrotingsdebat van 22 januari 2026 zei de minister dat de vernieuwing van de Schipholtunnel in voorbereiding is, maar "vooralsnog geen financiële dekking" heeft. `[A]` Interpretatie: de afspraak regelt prestaties en programmering binnen de begrotingsstand. Een uitdrukkelijke kwalificatie "geen begrotingswet" staat in geen van de gevonden stukken `[NF]`.
+
+**3.5 BKN.** Het BKN is bedoeld als "realistisch, haalbaar en maakbaar" (29 385, nr. 116) en bevat besparingsmaatregelen (groenbeheer, instrumenten voor verkeersmanagement, bewegwijzering, verlichting). Het MJP stelt: "Voor Vernieuwing is er op basis van het BKN geen balans in behoefte en budget." Rebel Group heeft het BKN inclusief besparingsmaatregelen gevalideerd (maart 2024). `[A]`
+
+**3.6 Assetmanagement en ISO.** Het Ontwikkelplan 2020 beschrijft het proces langs het iAMPro-model (ISO 55000). 29 385, nr. 139 (2024) formuleert de ambitie dat RWS "conform afspraak eind 2025 in lijn met de internationale standaard werkt, de ISO-55001". Volgens 29 385, nr. 142 (2025) toonde een externe beoordeling in 2024 dat "aanvullende maatregelen nodig zijn". De no-regret-maatregelen voor 2025 zijn:
+- een onafhankelijke kwaliteitsautoriteit;
+- datagedreven technisch assetmanagement (AIM, gekoppeld aan RUPS; UTD);
+- SAMP v3;
+- netwerkschakelplannen.
+
+Het Assetmanagement Systeem (AMS) wordt de "ruggengraat", en "het programma Assetmanagement IenW [loopt] na 2025 door". `[A]`
+
+**3.7 Agentschapsrollen.** Regeling agentschappen 2024:
+- De continuïteitsverantwoordelijke (SG of plaatsvervanger) toetst en keurt begroting, tarieven, jaarplan en jaarrekening goed en draagt zorg voor de grenzen van het eigen vermogen.
+- De eindverantwoordelijke binnen het agentschap draagt de uitvoering, het begrotings- en financieel beheer en de verantwoording.
+- Beleidsverantwoordelijke en eindverantwoordelijke bepalen samen de activiteiten.
+
+Het Ontwikkelplan 2020 hanteerde de oude termen (opdrachtgever/eigenaar/opdrachtnemer); 29 385, nr. 142 spreekt van "de driehoek". `[A]`
+
+## 4. Getallen (alleen officieel genoemd, met jaartal)
+
+| Getal | Jaar van het getal | Wat | Bron | Tag |
+|---|---|---|---|---|
+| € 1,8 mld | 2021 | Instandhoudingsproductie RWS | 29 385, nr. 119; MJP 2025–2030 | `[A]` |
+| € 2 → € 3 mld per jaar | streef t/m 2030 | Groei productievolume instandhouding, waarvan € 0,8 mld/jaar V&R | 29 385, nr. 119 (2023) | `[A]` |
+| ca. € 1,8 mld | ultimo 2022 | Achterstanden (uitgesteld onderhoud) | 29 385, nr. 119 | `[A]` |
+| ca. € 2,1 mld → ca. € 2,6 mld | 2023 → 2024 | Realisatie instandhouding RWS | 36 740 A, nr. 6 | `[A]` |
+| ca. € 2,6 mld → ca. € 3,1–3,3 mld per jaar | 2024 → 2025–2030 | Beschikbaar budget, begrotingsstand Voorjaarsnota 2025 | MJP 2025–2030 | `[A]` |
+| eenmalig ca. € 300 mln | Voorjaarsnota 2025 | Extra middelen instandhouding (excessieve prijsstijging), t/m 2030 | MJP; 29 385, nr. 143 | `[A]` |
+| ca. € 34,5 mld | periode 2024–2038 | Verschil budgetbehoefte en begroting instandhouding HWN, HVWN en HWS | MJP (ontleend aan Algemene Rekenkamer, mei 2025) | `[A]`/`[C]` |
+| € 20,5 mld | VO 2024 (mei 2025) | Verschil benodigd/beschikbaar budget instandhouding hoofdwegennet | Algemene Rekenkamer, Resultaten verantwoordingsonderzoek 2024 IenW | `[C]` (wettelijk evaluator) |
+| ca. 750 fte | 2025–2030 | Over te brengen naar primair proces | MJP | `[A]` |
+| programmering t/m 2028 | 2025 | "financieel en organisatorisch haalbaar" | MJP | `[A]` |
+| 83 objecten | jan 2024 – juli 2025 | Door RWS aangepakt | 36 800 A, nr. 9 | `[A]` |
+| 59% / 56% / 53% / 58% | peildatum 1 jan 2025 | Bruggen HWN / bruggen HVWN / spuisluizen HWS / stuwen HWS met minder dan een derde van de verwachte levensduur over | 36 800 A, nr. 9 | `[A]` |
+| 118 / 80 / 38 | eind 2021 | Complexe objecten met pIHP / gerealiseerd / in bewerking | Voortgang Ontwikkelplan 2022 | `[A]` |
+| 85% | Q1 2025 | UTD ingericht voor eenvoudige civiele objecten | 29 385, nr. 142 | `[A]` |
+| 1 jan 2024 – 2030 | — | Looptijd meerjarenafspraak | 29 385, nr. 139; MJP | `[A]` |
+| 2025–2033 | — | Horizon voortrollend Meerjarenprogramma | MJP | `[A]` |
+| eind 2025 | — | Oorspronkelijk ISO-55001-certificeerdoel, losgelaten | 29 385, nr. 142 | `[A]` |
+| ≥ 3 kalenderjaren | vanaf 1 jan 2025 | Minimumhorizon werkafspraken agentschap | Regeling agentschappen 2024, art. 7 | `[A]` |
+| € 3.875.658 duizend | begroting 2025 | Omzet agentschap RWS (vastgestelde begroting), waarvan € 3.589.954 duizend van moederdepartement | 1e suppletoire begroting IenW 2025, §5.1 | `[A]` |
+| € 13,9 mld / € 9,2 mld / € 1,3 mld | 2024 | Uitgaven IenW / waarvan naar Mobiliteitsfonds / naar Deltafonds | Algemene Rekenkamer VO 2024 | `[C]` |
+
+**Relatie tot Mobiliteitsfonds/Deltafonds volgens de stukken zelf:**
+- 36 800 A, nr. 9 (8 december 2025): "De maakbaarheid bij Rijkswaterstaat is inmiddels groter dan het financiële kader (Mobiliteitsfonds en Deltafonds)". Gevolg is "verdringing in de programmering" (voorbeeld: Schinkelbrug 2).
+- Begroting IenW 2026 §4.1: de baten van het moederdepartement zijn "bijdragen aan agentschap RWS", die op de productartikelen van Deltafonds en Mobiliteitsfonds worden verantwoord.
+- In 2024 (29 385, nr. 139) was het beeld omgekeerd: het budget zou "over enkele jaren" boven de maakbaarheid uitstijgen. `[A]`
+
+**Waterschappen (alleen waar het MJP ze noemt):** het MJP stelt dat de RWS-netwerken "nauw verbonden [zijn] met regionale netwerken in het beheer van provincies, gemeenten en waterschappen" en dat daarover "intensief afgestemd" wordt. `[A]`
+
+## 5. Open gaten na deze ronde
+
+1. **Tekst meerjarenafspraak / Startbrief november 2023:** niet openbaar gevonden; ondertekenaars onbekend. Mogelijk te verkrijgen via een Woo-verzoek of via de beslisnota's (bijlage 1 bij 29 385, nr. 139; beslisnota bij 29 385, nr. 143), die niet zijn geopend. `[NF]`
+2. **Expliciete "geen begrotingswet"-passage en midterm-herijking 2026:** niet gevonden. `[NF]`
+3. **Tegenstrijdigheid looptijd:** het MJP noemt de afspraak "statisch" (2024–2030). In het plenaire debat van 22 januari 2026 zei de minister: "De meerjarenafspraken voor Rijkswaterstaat beslaan acht jaar en zijn voorts rollend." In hetzelfde debat zei hij echter ook: "Weet wel dat de afspraak nog tot 2030 loopt, maar wij kijken gewoon iedere dag al verder en geven een update", en over de groei van € 2 naar € 3 mld per jaar tot 2030: "Dit niveau is nu al bereikt" (Plenair verslag TK 2025–2026, nr. 34). Dat past bij het onderscheid tussen een vaste afspraak en een voortrollende programmering. De formulering in 29 385, nr. 146 is niet nagegaan.
+4. **Herijkte ISO-55001-certificeringsplanning:** aangekondigd in 36 800 A, nr. 9, maar het stuk met de planning is niet gevonden. Stage 0 ("losgelaten") blijft juist; een vervangend jaartal is `[NF]`.
+5. **BKN-normenset/prestatietabel:** niet openbaar; bijlage 1081483 bij 29 385, nr. 119 moet nog worden geopend.
+6. **SAMP v3 (2025):** niet openbaar; alleen het interne portaal samp.rws.nl.
+7. **Mandaatkaart RWS 2025–2026 in de nieuwe rollen (namen/functies):** niet gevonden; de begrotingsteksten passen de rollen alleen generiek toe.
+8. **Voortgangsrapportage Ontwikkelplan 2023:** alsnog gevonden (juni 2023, https://www.tweedekamer.nl/downloads/document?id=2023D30092); de inhoud is nog niet uitgelezen.
+9. **Datumdiscrepantie 29 385, nr. 142:** het Kamerstuk is gedateerd "Den Haag, 28 april 2025", terwijl rijksoverheid.nl de Kamerbrief op 27-05-2025 plaatst (beslisnota 23-04-2025; rapportage 30-11-2024). Het Kamerstuk (A) is leidend.
+10. **Staat van de Infrastructuur RWS 2024, volledige PDF-inhoud:** niet volledig uitgelezen (robots-blokkade); de cijfers hierboven komen uit de begeleidende Kamerbrief.
+
+**Correcties/bevestigingen t.o.v. Stage 0:**
+- (a) De meerjarenafspraak blijft `[NF]` voor de tekst. De openbare weergave (29 385, nr. 139; MJP §1.2) en de naam van het onderliggende stuk ("Startbrief …, november 2023") zijn nu wel gevonden.
+- (b) ISO eind 2025 losgelaten: bevestigd met https://zoek.officielebekendmakingen.nl/kst-29385-142.pdf. De datum van het Kamerstuk is 28 april 2025.
+- (c) De Regeling agentschappen 2024 hernoemt de rollen per 1 januari 2025: bevestigd via https://wetten.overheid.nl/BWBR0050264/2025-01-01/0 ("Geldend van 01-01-2025 t/m heden").
+- (d) Naamgeving: "Staat van de Infrastructuur 2024" is het rapport over het jaar 2024 (peildatum 1 januari 2025, verschenen december 2025). Het rapport "2023" had peildatum 1 januari 2024 en is op 21 november 2024 aangeboden (36 600 A, nr. 19).
+
+## 6. DOCUMENTENINDEX
+
+| ID | Officiële titel | Uitgever | Datum | Type | URL | Wat het regeert | Taal | Status | Ophaalprioriteit |
+|---|---|---|---|---|---|---|---|---|---|
+| G1-1-D01 | Ontwikkelplan Assetmanagement IenW (bijlage bij 35 570 A, nr. 46) | Ministerie van IenW | 16-12-2020 | Programmaboek/bijlage Kamerstuk | https://zoek.officielebekendmakingen.nl/blg-964099.pdf | Ontwikkeltraject assetmanagement, rollen, ISO-richting | NL | Oorsprongsstuk, nog geciteerd | A |
+| G1-1-D02 | Voortgang Ontwikkelplan Assetmanagement IenW | Ministerie van IenW | 08-07-2022 | Voortgangsrapportage | https://zoek.officielebekendmakingen.nl/blg-1041423.pdf | Voortgang 2021; ambitie eind 2025 | NL | Historisch | B |
+| G1-1-D03 | Basiskwaliteitsniveau RWS-netwerken (Kamerstuk 29 385, nr. 119) | Minister van IenW (Harbers) | 17-03-2023 | Kamerbrief | https://zoek.officielebekendmakingen.nl/kst-29385-119.html | BKN; aankondiging achtjarige opdracht; productievolume | NL | Van kracht als beleidskader | A |
+| G1-1-D04 | Basiskwaliteitsniveau RWS netwerken (Kamerstuk 29 385, nr. 116) | Minister van IenW | 11-11-2022 (gepubliceerd 17-11-2022) | Kamerbrief | https://zoek.officielebekendmakingen.nl/kst-29385-116.html | Uitgangspunten BKN ("realistisch, haalbaar en maakbaar") | NL | Voorloper | C |
+| G1-1-D05 | Instandhouding voorop! | Adviesgroep ontwikkeling en instandhouding infrastructuur (bijlage bij 29 385, nr. 139) | 29-01-2024 | Adviesrapport | https://www.tweedekamer.nl/downloads/document?id=2024D25452 | Advies; verwijst naar Startbrief meerjarenafspraak (nov 2023) | NL | Omarmd door IenW | A |
+| G1-1-D06 | Startbrief Meerjarenafspraak Instandhouding voor de periode t/m 2030 | IenW (vermoedelijk beleidskern/SG; NIET GEVONDEN) | 11-2023 | Interne sturingsbrief | NIET GEVONDEN | De afspraak zelf | NL | Van kracht (volgens verwijzingen) | A |
+| G1-1-D07 | Verhogen productievermogen instandhouding Rijkswaterstaat-netwerken (Kamerstuk 29 385, nr. 139) | Minister van IenW (Harbers) | 17-06-2024 | Kamerbrief | https://www.tweedekamer.nl/downloads/document?id=2024D25449 | Meerjarenafspraak 2024–2030, BKN, maakbaarheid | NL | Van kracht | A |
+| G1-1-D08 | Voortgang Ontwikkelplan Assetmanagement (Kamerstuk 29 385, nr. 142) | Minister van IenW (Madlener) | 28-04-2025 (rijksoverheid.nl: 27-05-2025) | Kamerbrief | https://zoek.officielebekendmakingen.nl/kst-29385-142.pdf | ISO eind 2025 losgelaten; SAMP v3; AMS | NL | Van kracht | A |
+| G1-1-D09 | Voortgang Ontwikkelplan Assetmanagement 2024 | Ministerie van IenW / RWS | 30-11-2024 | Voortgangsrapportage | https://zoek.officielebekendmakingen.nl/blg-1194645.pdf | Stand 2024; "(te) ambitieus" | NL | Bijlage bij D08 | B |
+| G1-1-D10 | Meerjarenplan Instandhouding Rijkswaterstaat 2025–2030 | Rijkswaterstaat (DG M. Wijnen) | 24-06-2025 | Programmaboek | https://zoek.officielebekendmakingen.nl/blg-1206045.pdf | Programmering 2025–2033, maakbaarheid, budget | NL | Van kracht; jaarlijkse actualisatie aangekondigd | A |
+| G1-1-D11 | Meerjarenplan instandhouding Rijkswaterstaat-netwerken 2025-2030 (Kamerstuk 29 385, nr. 143) | Minister van IenW (Tieman) | 01-07-2025 | Kamerbrief | https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2025Z13825&did=2025D31342 | Aanbieding MJP; € 300 mln | NL | Van kracht | A |
+| G1-1-D12 | Rapportages Staat van de Infrastructuur Rijkswaterstaat en ProRail 2024 (Kamerstuk 36 800 A, nr. 9) | Minister (Tieman) en staatssecretaris (Aartsen) van IenW | 08-12-2025 | Kamerbrief | https://www.tweedekamer.nl/downloads/document?id=2025D50408 | Staat netwerken; maakbaarheid > financieel kader | NL | Actueel | A |
+| G1-1-D13 | Staat van de Infrastructuur Rijkswaterstaat 2024 | Rijkswaterstaat | 12-2025 | Rapport/dataset | https://www.rijksoverheid.nl/documenten/2025/12/08/bijlage-2-staat-van-de-infrastructuur-rijkswaterstaat-2024 | Technische staat HWN/HVWN/HWS, peildatum 1-1-2025 | NL | Actueel | A |
+| G1-1-D14 | Werking Meerjarenplan Instandhouding Rijkswaterstaat (Kamerstuk 29 385, nr. 146) | Minister van IenW (Tieman) | 26-01-2026 | Kamerbrief (met beslisnota) | https://www.rijksoverheid.nl/documenten/2026/01/26/werking-meerjarenplan-instandhouding-rijkswaterstaat | Werking/doorkijk MJP; afgesproken productieverhoging t/m 2030 | NL | Actueel; tekst niet ingezien | A |
+| G1-1-D15 | Regeling agentschappen 2024 (Stcrt. 2024, 32572) | Minister van Financiën | 20-09-2024; geldend vanaf 01-01-2025 | Ministeriële regeling | https://wetten.overheid.nl/BWBR0050264/2025-01-01/0 | Rollen en werkafspraken agentschappen | NL | Van kracht | A |
+| G1-1-D16 | Begroting IenW (XII) 2026, §4.1 Agentschap Rijkswaterstaat en art. 14 | Ministerie van IenW | 09-2025 | Begrotingswet/MvT | https://www.rijksfinancien.nl/memorie-van-toelichting/2026/OWB/XII | 8-jarige integrale opdracht; agentschapsbegroting | NL | Van kracht (2026) | A |
+| G1-1-D17 | 1e suppletoire begroting IenW 2025, §5.1 Agentschap Rijkswaterstaat | Ministerie van IenW | 2025 | Suppletoire begroting | https://www.rijksfinancien.nl/memorie-van-toelichting/2025/1SUPP/XII/onderdeel/4052747 | Drie rollen toegepast op bekostiging RWS | NL | Uitgevoerd | B |
+| G1-1-D18 | Resultaten verantwoordingsonderzoek 2024 ministerie van IenW | Algemene Rekenkamer | 21-05-2025 | Verantwoordingsonderzoek | https://www.rekenkamer.nl/documenten/2025/05/21/vo-2024-ienw | Tekort instandhouding HWN; oordelen MF/DF | NL | Actueel | B |
+| G1-1-D19 | Jaarverslag IenW 2024 (36 740 XII, nr. 1) | Ministerie van IenW | 05-2025 | Jaarverslag | https://www.rijksfinancien.nl/jaarverslag/2024/XII | Meldt meerjarenafspraak sinds 2024 | NL | Vastgesteld | C |
+| G1-1-D20 | Lijst van vragen en antwoorden jaarverslag MF 2024 (36 740 A, nr. 6) | Ministerie van IenW | 2025 | Kamerstuk | https://zoek.officielebekendmakingen.nl/kst-36740-A-6.html | Realisatie 2023/2024; herijking ISO | NL | Actueel | C |
+| G1-1-D21 | Antwoorden Kamervragen Stoffer over instandhoudingsopgave (Aanhangsel 2025–2026, nr. 682) | Minister van IenW (Tieman) | 16-12-2025 | Aanhangsel Handelingen | https://zoek.officielebekendmakingen.nl/ah-tk-20252026-682.html | 16-jaarsdoorkijk; IBOI; ongedekt werk | NL | Actueel | B |
+| G1-1-D22 | Doorlichting van het agentschap Rijkswaterstaat | Ministerie van IenW / Financiën | 2022 | Agentschapsdoorlichting | https://www.rijksfinancien.nl/sites/default/files/extrainfo/beleidsdoorlichtingen_periodieke%20rapportages/2022%20RWS.pdf | Governance oude driehoek | NL | Historisch evaluatief | C |
+| G1-1-D23 | Toegankelijkheidsverklaring Strategisch Asset Managementplan (SAMP) | Rijkswaterstaat (register) | 21-05-2024 | Registerinschrijving | https://www.toegankelijkheidsverklaring.nl/register/23569 | Bewijs dat SAMP-portaal intern is | NL | Actueel | C |
+| G1-1-D24 | SAMP Rijkswaterstaat v3 | IenW/RWS | 2025 | Strategisch plan | NIET GEVONDEN | AM-strategie driehoek | NL | Niet openbaar | A |
+| G1-1-D25 | Voortgang Ontwikkelplan Assetmanagement IenW (versie 1.0) | Ministerie van IenW | 06-2023 | Voortgangsrapportage | https://www.tweedekamer.nl/downloads/document?id=2023D30092 | Voortgang 2022 | NL | Historisch | B |
+| G1-1-D26 | Plenair verslag Tweede Kamer 2025–2026, nr. 34 (Begrotingen IenW en Mobiliteitsfonds 2026) | Tweede Kamer | 22-01-2026 | Handelingen | https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2025-2026/34 | Uitspraken minister over looptijd afspraak | NL | Vastgesteld | B |
+
+## 7. Genummerde bronnenlijst
+
+De URL-kolom van de DOCUMENTENINDEX (G1-1-D01 t/m D26) is de bronnenlijst van dit dossier. Alle vermelde URL's zijn in deze ronde geopend of als zoekresultaat aangetroffen, behalve waar `NIET GEVONDEN` of "niet geopend" staat. Aanvullend is Kamerstuk 32 861, nr. 89 geciteerd (URL niet geverifieerd: NIET GEVONDEN).
